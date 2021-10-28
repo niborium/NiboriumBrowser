@@ -7,5 +7,7 @@ Stöd för: Gå tillbaka, Gå Framåt, Refresh, adressfält, Go, New Tab/tabs (f
 
 [Att göra]
 Lägga till favoriter
+
 Lägga till historik
+
 Lägga till hantering av cookies
