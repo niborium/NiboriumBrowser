@@ -6,10 +6,6 @@ Stöd för: Gå tillbaka, Gå Framåt, Refresh, adressfält, Go, New Tab/tabs (f
 ![Screenshot](https://github.com/niborium/NiboriumBrowser/blob/master/screenshot.PNG)
 
 [Att göra]
-
 Lägga till favoriter
-
 Lägga till historik
-
 Lägga till hantering av cookies
-
