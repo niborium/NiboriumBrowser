@@ -1,11 +1,11 @@
 # NiboriumBrowser (CefSharp.WinForms)
 
-NiboriumBrowser är en Chromium-webbläsare skapad med CefSharp.WinForms\
-Stöd för: Gå tillbaka, Gå Framåt, Refresh, adressfält, Go, New Tab/tabs (för skapa flera flikar)
+NiboriumBrowser is a Chromium browser built with CefSharp.WinForms\
+Support for: Go Back, Go Forward, Refresh, address bar, Go, New Tab/tabs (for creating multiple tabs)
 
 ![Screenshot](https://github.com/niborium/NiboriumBrowser/blob/master/screenshot.PNG)
 
-[Att göra]\
-Lägga till favoriter\
-Lägga till historik\
-Lägga till hantering av cookies
+[To do]\
+Add Favorites\
+Add History\
+Add management of cookies
